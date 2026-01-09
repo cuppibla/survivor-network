@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-cloud-spanner
+google-cloud-aiplatform
+google-adk
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+websockets
